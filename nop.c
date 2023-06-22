@@ -2,7 +2,7 @@
 
 /**
   *f_nop- nothing
-  *@head: pointer to the stack head
+  *@head: points to the stack head
   *@counter: line number
   *Return: nothing
  */
